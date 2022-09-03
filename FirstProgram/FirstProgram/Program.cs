@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             string str = "Hello, World!";
-            Console.WriteLine(str);
+            Console.WriteLine(str + " again");
         }
     }
 }
